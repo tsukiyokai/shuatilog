@@ -31,15 +31,15 @@ int main() {
 }
 
 /*
-    ## Sample Input
+## Sample Input
 
-    4 11
-    8.02
-    7.43
-    4.57
-    5.39
+4 11
+8.02
+7.43
+4.57
+5.39
 
-    ## Sample Output
+## Sample Output
 
-    2.00
+2.00
 */
